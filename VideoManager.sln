@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoManager", "VideoManager\VideoManager.csproj", "{6E9B7DBD-0D90-41E4-B46F-FF3280ADDD63}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VideoManagerSetup", "VideoManagerSetup\VideoManagerSetup.vdproj", "{0B2B9288-52D2-4865-9465-7860A46F0C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9B7DBD-0D90-41E4-B46F-FF3280ADDD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9B7DBD-0D90-41E4-B46F-FF3280ADDD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9B7DBD-0D90-41E4-B46F-FF3280ADDD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9B7DBD-0D90-41E4-B46F-FF3280ADDD63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2B9288-52D2-4865-9465-7860A46F0C0C}.Debug|Any CPU.ActiveCfg = Debug
+		{0B2B9288-52D2-4865-9465-7860A46F0C0C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
