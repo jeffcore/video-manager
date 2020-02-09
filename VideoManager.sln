@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoManager", "VideoManager\VideoManager.csproj", "{6E9B7DBD-0D90-41E4-B46F-FF3280ADDD63}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VideoManagerSetup", "VideoManagerSetup\VideoManagerSetup.vdproj", "{0B2B9288-52D2-4865-9465-7860A46F0C0C}"
@@ -20,5 +22,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77641EAB-C827-4343-BAE1-374B021F8698}
 	EndGlobalSection
 EndGlobal

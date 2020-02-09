@@ -5,7 +5,9 @@
 *.suo
 *.user
 *.sln.docstates
-
+.vs
+VideoManager/VideoManager_1_TemporaryKey.pfx
+VideoManager/dll
 # Build results
 
 [Dd]ebug/
